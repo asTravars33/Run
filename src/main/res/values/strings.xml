@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">JWLab08b</string>
+    <string-array name="components">
+        <item>Head</item>
+        <item>Body</item>
+        <item>Left Foot</item>
+        <item>Right Foot</item>
+    </string-array>
+</resources>
